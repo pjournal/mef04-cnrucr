@@ -2,6 +2,6 @@
 
 ### Assignment 1
 
-[R Markdown Assignment](https://github.com/pjournal/mef04-cnrucr/blob/gh-pages/Assignment1.html)
+[R Markdown Assignment](https://pjournal.github.io/mef04-cnrucr/Assignment1.html)
 
 
