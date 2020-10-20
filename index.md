@@ -2,6 +2,6 @@
 
 ### Assignment 1
 
-[R Markdown Assigment](...)
+[R Markdown Assignment](...)
 
 
