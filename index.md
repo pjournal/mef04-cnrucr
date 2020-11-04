@@ -6,4 +6,4 @@
 
 ### Bonus In-Class Assignment 1
 
-[R Markdown of Property Sale](https://pjournal.github.io/mef04-cnrucr/Bonus_Assignment1.html)
+[R Markdown of Property Sale](https://pjournal.github.io/mef04-cnrucr/Bonus_Assignment.html)
