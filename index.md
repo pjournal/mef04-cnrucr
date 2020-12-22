@@ -11,4 +11,5 @@
 [Electricity Market Prices in Turkey](https://pjournal.github.io/mef04-cnrucr/Assignment_Electricity_Market_Prices.html)
 
 ### Assignment 3: Diamonds Price Estimation
+
 [Diamonds Price Estimation Model] (https://pjournal.github.io/mef04-cnrucr/DiamondPriceEstimation.html)
